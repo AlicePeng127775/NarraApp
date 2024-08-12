@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "mdia4295_assign2_AlicePeng",
+    "slug": "mdia4295_assign2_AlicePeng",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LogoBlack.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5F8671"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/LogoBlack.png",
+        "backgroundColor": "#5F8671"
+      }
+    },
+    "web": {
+      "favicon": "./assets/LogoBlack.png"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
